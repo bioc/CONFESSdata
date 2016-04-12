@@ -1,13 +1,13 @@
-\name{fucci}
-\alias{fucci}
+\name{CONFESSdata}
+\alias{CONFESSdata}
 \docType{data}
 \title{
-fucci
+CONFESSdata
 }
 \description{
 Text-converted C01 image files generated on the Fluidigm C1 system
 }
-\usage{data("fucci")}
+\usage{data("CONFESSdata")}
 \format{
     The format is: List of 6
     \itemize{
@@ -26,6 +26,6 @@ This data was generated at RIKEN and can be downloaded at \url{http://single-cel
 data frame describing the text files and other image info
 }
 \examples{
-data(fucci)
+data(CONFESSdata)
 }
 \keyword{datasets}

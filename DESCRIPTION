@@ -1,13 +1,11 @@
 Package: CONFESSdata
-Title: fucci example dataset for CONFESS package
-Version: 0.99.5
-Date: 2016-03-24
+Title: Example dataset for CONFESS package
+Version: 0.99.6
+Date: 2016-04-12
 Author: Diana LOW and Efthimios MOTAKIS
 Maintainer: Diana LOW <dlow@imcb.a-star.edu.sg>
-Description: Example text-converted C01 image files for use in the
-        CONFESS Bioconductor package.
-biocViews:
-        HighThroughputImagingData,CellCulture,Homo_sapiens_Data,ExpressionData
+Description: Example text-converted C01 image files for use in the CONFESS Bioconductor package.
+biocViews: HighThroughputImagingData,CellCulture,Homo_sapiens_Data,ExpressionData
 NeedsCompilation: no
 Depends: R (>= 3.3)
 License: GPL-2
